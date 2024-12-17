@@ -1,6 +1,6 @@
 # MedicalMeadow
 ### Scope
-Project based on Medical Meadow datatset, train a NPL model to answer medical questions.
+Project based on Medical Meadow datatset, train a NLP model to answer medical questions.
 
 
 ### Medical Meadow Medical Flashcards:
